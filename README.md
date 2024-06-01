@@ -9,6 +9,8 @@ YapDegenTokenV2 is an ERC20 token contract implemented on the Ethereum blockchai
 - Minting: The owner can mint new tokens.
 - Burning: Users can burn their own tokens.
 - Redeeming: Users can redeem tokens for in-game items from the store.
+- Check Balance: Users can check the balance of a specific address
+- Transfering: Can transfer tokens to a specific address. 
 - Store Management: The owner can add or remove items from the in-game store.
 
 ## Dependencies
